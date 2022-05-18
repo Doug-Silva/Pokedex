@@ -20,7 +20,7 @@
 </div>
 
   ## 🚀 Iniciar
-  Link do site no Netlify: https://pokedex-150.netlify.app
+  - Link da aplicação no GitHub Pages: https://doug-silva.github.io/pokedex
   
   ## 🔨 Seja um dos contribuidores<br>
   Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
